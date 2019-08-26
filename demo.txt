@@ -7,8 +7,3 @@ Creating a new branch is quick & simple.
 
 WRF is a cool man.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-public static void main(String[] args) {
-    system.out.printl("dev分支中未完成的程序")
-}
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
