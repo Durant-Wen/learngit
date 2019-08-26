@@ -5,4 +5,9 @@ learning git firstday.
 
 Creating a new branch is quick & simple.
 
+<<<<<<< HEAD
 HSJ is a beautiful girl.
+=======
+WRF is a cool man.
+
+>>>>>>> dev
