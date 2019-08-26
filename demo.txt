@@ -2,3 +2,5 @@ learning git firstday.
 现在在分支dev上做文件修改并提交 2019-8-26 09:26
 
 现在测试冲突解决：在aeature1分支上 2019-8-26 09:43
+
+Creating a new branch is quick.
