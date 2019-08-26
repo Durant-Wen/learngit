@@ -3,5 +3,4 @@ learning git firstday.
 
 现在测试冲突解决：在aeature1分支上 2019-8-26 09:43
 
-Creating a new branch is quick and simple.
-
+Creating a new branch is quick & simple.
