@@ -5,5 +5,5 @@ learning git firstday.
 
 Creating a new branch is quick & simple.
 
-WRF is a handsome real man.
+WRF is a handsome and real man.
 
