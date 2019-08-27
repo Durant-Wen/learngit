@@ -5,5 +5,5 @@ Class Student{
 	private string teacher;
 	private string schoolName;
 	
-	system.out.printl("一千万的项目完成了50%");
+	system.out.printl("一千万的项目完成了100%");
 }
