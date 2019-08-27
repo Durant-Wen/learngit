@@ -3,4 +3,5 @@ Class Student{
 	private string name;
 	private string classNum;
 	private string teacher;
+	private string schoolName;
 }
