@@ -1,5 +1,6 @@
 Class Student{
 	private int age;
 	private string name;
-	private int classNum;
+	private string classNum;
+	private string teacher;
 }
