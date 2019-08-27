@@ -5,12 +5,5 @@ learning git firstday.
 
 Creating a new branch is quick & simple.
 
-<<<<<<< HEAD
-WRF is a handsome and real man.
-=======
 WRF is a handsome real man.
 
-=========================
-这是dev分支还未完成的程序
-=========================
->>>>>>> dev
